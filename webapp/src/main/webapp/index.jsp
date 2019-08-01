@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Techyoga from chennai -  Technologies !!! </h1>
+<h1> Hello, Welcome to Techyoga Corporation - Chennai, India !!! </h1>
 
